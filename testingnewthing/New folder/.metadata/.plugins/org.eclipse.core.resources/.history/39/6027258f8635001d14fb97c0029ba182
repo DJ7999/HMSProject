@@ -1,4 +1,0 @@
-server.port=8087
-spring.application.name=userservice
-spring.devtools.remote.restart.enabled=true
-

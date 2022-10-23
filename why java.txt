@@ -1,3 +1,0 @@
-why hybernate
-
---->because of its lazy behaviour which allow us more  control and flexibility to manage all things.
